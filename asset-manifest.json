@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bible-Discovery-Quiz/static/css/main.58ebc7c2.css",
+    "main.js": "/Bible-Discovery-Quiz/static/js/main.ece30c6d.js",
+    "static/js/453.8c74e008.chunk.js": "/Bible-Discovery-Quiz/static/js/453.8c74e008.chunk.js",
+    "index.html": "/Bible-Discovery-Quiz/index.html",
+    "main.58ebc7c2.css.map": "/Bible-Discovery-Quiz/static/css/main.58ebc7c2.css.map",
+    "main.ece30c6d.js.map": "/Bible-Discovery-Quiz/static/js/main.ece30c6d.js.map",
+    "453.8c74e008.chunk.js.map": "/Bible-Discovery-Quiz/static/js/453.8c74e008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ebc7c2.css",
+    "static/js/main.ece30c6d.js"
+  ]
+}
